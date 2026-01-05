@@ -318,6 +318,19 @@ packages_select_by_deps:
       - topic_based_ros2_control
       # IntelRealSense
       - librealsense2
+      - lbr_bringup
+      - lbr_description
+      - lbr_fri_ros2
+      - lbr_fri_ros2_stack
+      - iiwa14_moveit_config
+      - iiwa7_moveit_config
+      - med14_moveit_config
+      - med7_moveit_config
+      - lbr_ros2_control
+      - lbr_fri_idl
+      - fri_client_sdk
+      - kinematics_interface
+      - kinematics_interface_kdl
 
   # These packages are only built on Linux as they depend on Linux-specific API
   - if: linux
