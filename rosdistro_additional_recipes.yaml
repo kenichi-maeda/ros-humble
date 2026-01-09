@@ -26,6 +26,36 @@ wasm_cpp:
   url: https://github.com/ros2wasm/rmw_wasm.git
   version: 1.0.0
   additional_folder: wasm_cpp
+lbr_demos_advanced_cpp:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_demos_advanced_cpp
+lbr_demos_advanced_py:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_demos_advanced_py
+lbr_demos_cpp:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_demos_cpp
+lbr_demos_py:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_demos_py
+lbr_moveit:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_moveit
+lbr_moveit_cpp:
+  url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
+  rev: 2e932d4e062966afe216710a7cc2fe50a8099365
+  version: 2.4.3
+  additional_folder: lbr_demos/lbr_moveit_cpp
 lbr_bringup:
   url: https://github.com/lbr-stack/lbr_fri_ros2_stack.git
   rev: 2e932d4e062966afe216710a7cc2fe50a8099365

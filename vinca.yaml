@@ -323,6 +323,12 @@ packages_select_by_deps:
       - librealsense2
       # requested in https://github.com/RoboStack/ros-humble/issues/352
       - lbr_bringup
+      - lbr_demos_advanced_cpp
+      - lbr_demos_advanced_py
+      - lbr_demos_cpp
+      - lbr_demos_py
+      - lbr_moveit
+      - lbr_moveit_cpp
       - lbr_description
       - lbr_fri_ros2
       - lbr_fri_ros2_stack
