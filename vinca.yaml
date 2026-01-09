@@ -321,6 +321,7 @@ packages_select_by_deps:
       - topic_based_ros2_control
       # IntelRealSense
       - librealsense2
+      # requested in https://github.com/RoboStack/ros-humble/issues/352
       - lbr_bringup
       - lbr_description
       - lbr_fri_ros2
