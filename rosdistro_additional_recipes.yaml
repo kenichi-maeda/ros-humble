@@ -107,7 +107,7 @@ lbr_fri_idl:
   version: 1.5.0
 fri_client_sdk:
   url: https://github.com/lbr-stack/fri.git
-  rev: 8d5df30860adbfbc54346a6ce9b081de66b1f645
+  rev: dc7d613d42571e458dd62ea814a0a47a209487d8
   version: 2.0.0
 kinematics_interface:
   url: https://github.com/ros-controls/kinematics_interface.git
