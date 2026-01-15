@@ -151,3 +151,7 @@ rosidl_generator_cpp:
   build_number: 14
 rosidl_runtime_cpp:
   build_number: 14
+kinematics_interface:
+ build_number: 14
+kinematics_interface_kdl:
+ build_number: 14

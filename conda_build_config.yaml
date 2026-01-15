@@ -61,3 +61,12 @@ libzenohcxx:
   - 1.4.0
 libcap:
   - 2.71
+
+fri_client_version:
+  - 1_11
+  - 1_14
+  - 1_15
+  - 1_16
+  - 1_17
+  - 2_5
+  - 2_7
